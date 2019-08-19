@@ -11,5 +11,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "viber-bot": "^1.0.14"
+  },
+  "engines": {
+    "node":">=9.0.0"
   }
 }
